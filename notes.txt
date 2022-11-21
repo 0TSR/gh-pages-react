@@ -1,0 +1,5 @@
+Initially started package.json entry at
+
+"homepage": "https://0tsr.github.io/gh-pages-react/",
+
+but since we changed the domain, we had to remove the virtual directory
